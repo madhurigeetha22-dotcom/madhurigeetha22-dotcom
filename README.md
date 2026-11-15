@@ -1,23 +1,36 @@
-## Hi, I'm Derangula Geethamadhuri 👋
+<div align="center">
 
-I'm building my software development skills through hands-on practice.
+# 👋 Hi, I'm Derangula Geethamadhuri
 
-- Learning and practicing Python, Git, and GitHub
-- Exploring open-source projects and how to investigate software issues
-- Recently completed an UnvibeCode engineering issue investigation
+### 🌱 Learning Python · Exploring open source · Building step by step
 
-Thanks for visiting my profile!
-<!--
-**madhurigeetha22-dotcom/madhurigeetha22-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `> whoami`
+
+```text
+status     : learning and practicing
+focus      : Python, Git, and GitHub
+exploring  : open-source projects and software issue investigation
+```
+
+## `> toolkit`
+
+![Python](https://img.shields.io/badge/Python-learning-blue?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-practicing-black?logo=github)
+
+## `> recent-work`
+
+🔎 Investigated a Unicode filename extraction problem on macOS while exploring UnvibeCode.
+
+[View the GitHub issue](https://github.com/FinanceFlash/unvibecode/issues/928)
+
+---
+
+<div align="center">
+
+✨ Thanks for stopping by ✨
+
+</div>
