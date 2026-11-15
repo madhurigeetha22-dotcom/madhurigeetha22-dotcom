@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Derangula Geethamadhuri 👋
 
+I'm building my software development skills through hands-on practice.
+
+- Learning and practicing Python, Git, and GitHub
+- Exploring open-source projects and how to investigate software issues
+- Recently completed an UnvibeCode engineering issue investigation
+
+Thanks for visiting my profile!
 <!--
 **madhurigeetha22-dotcom/madhurigeetha22-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
