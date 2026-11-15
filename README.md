@@ -1,36 +1,55 @@
 <div align="center">
 
-# 👋 Hi, I'm Derangula Geethamadhuri
+# 👋 Derangula Geethamadhuri
 
-### 🌱 Learning Python · Exploring open source · Building step by step
+### Learning Python · Exploring open source · Growing step by step
+
+![Python](https://img.shields.io/badge/Python-learning-blue?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-practicing-black?logo=github)
 
 </div>
 
 ---
 
-## `> whoami`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `> whoami`
 
 ```text
-status     : learning and practicing
-focus      : Python, Git, and GitHub
-exploring  : open-source projects and software issue investigation
+status    : learning and practicing
+focus     : Python, Git, and GitHub
+exploring : open-source projects
 ```
 
-## `> toolkit`
+### `> currently learning`
 
-![Python](https://img.shields.io/badge/Python-learning-blue?logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-practicing-black?logo=github)
+- Python programming
+- Git and GitHub workflows
+- How to reproduce and explain software issues
 
-## `> recent-work`
+</td>
+<td width="50%" valign="top">
 
-🔎 Investigated a Unicode filename extraction problem on macOS while exploring UnvibeCode.
+### `> recent investigation`
 
-[View the GitHub issue](https://github.com/FinanceFlash/unvibecode/issues/928)
+I reproduced a Unicode filename extraction failure on macOS using a small Python archive.
+
+[Read my UnvibeCode issue](https://github.com/FinanceFlash/unvibecode/issues/928)
+
+### `> find me`
+
+[GitHub](https://github.com/madhurigeetha22-dotcom)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-✨ Thanks for stopping by ✨
+✨ Thanks for visiting my profile ✨
 
 </div>
